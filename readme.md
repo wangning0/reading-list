@@ -8,3 +8,7 @@
 ## React Router
 
 * [在ReactRouter V4中使用动态路由](https://github.com/brickspert/blog/issues/3)
+
+## Redux
+
+* [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)
