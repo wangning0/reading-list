@@ -12,3 +12,7 @@
 ## Redux
 
 * [ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)
+
+## Babel
+
+* [babel怎么读懂代码的？](https://zhuanlan.zhihu.com/p/27289600)
